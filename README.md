@@ -11,8 +11,8 @@ This project focuses on predicting customer churn using machine learning models.
 - **Churn Prediction**: Predict customers likely to churn using advanced machine learning models.
 - **Customer Insights**: Identify key characteristics and behaviors that correlate with churn.
 - **Business Impact**: Enable proactive retention strategies by prioritizing high-risk customers.
-- 
-![image](https://github.com/user-attachments/assets/cb5b31ca-31ee-488d-a4dd-1e4c5729a987)
+
+![image](https://github.com/user-attachments/assets/b575b765-7168-48bc-876d-181d786212c9)
 
 ---
 
@@ -60,8 +60,8 @@ The following models were trained and evaluated:
 - **Feature Importance**:
   - Key drivers of churn include `international_plan`, `number_customer_service_calls`, and `voice_mail_plan`.
 - **Churn Strategy**: Ranked top 500 customers with the highest churn probability for proactive engagement.
-
-![image](https://github.com/user-attachments/assets/ee4b1900-645a-490b-b8ab-0a901aa8a96a)
+  
+![image](https://github.com/user-attachments/assets/cb5b31ca-31ee-488d-a4dd-1e4c5729a987)
 
 ---
 
