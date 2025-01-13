@@ -11,6 +11,8 @@ This project focuses on predicting customer churn using machine learning models.
 - **Churn Prediction**: Predict customers likely to churn using advanced machine learning models.
 - **Customer Insights**: Identify key characteristics and behaviors that correlate with churn.
 - **Business Impact**: Enable proactive retention strategies by prioritizing high-risk customers.
+- 
+![image](https://github.com/user-attachments/assets/cb5b31ca-31ee-488d-a4dd-1e4c5729a987)
 
 ---
 
@@ -47,6 +49,9 @@ The following models were trained and evaluated:
 3. **XGBoost**
    - Tuned `scale_pos_weight` to address class imbalance.
    - Achieved the highest recall and best overall performance.
+
+![image](https://github.com/user-attachments/assets/14730bd4-4955-472f-acdf-db4a172147fc)
+![image](https://github.com/user-attachments/assets/ee4b1900-645a-490b-b8ab-0a901aa8a96a)
 
 ---
 
