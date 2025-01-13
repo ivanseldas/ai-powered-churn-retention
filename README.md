@@ -50,17 +50,18 @@ The following models were trained and evaluated:
    - Tuned `scale_pos_weight` to address class imbalance.
    - Achieved the highest recall and best overall performance.
 
-![image](https://github.com/user-attachments/assets/14730bd4-4955-472f-acdf-db4a172147fc)
-![image](https://github.com/user-attachments/assets/ee4b1900-645a-490b-b8ab-0a901aa8a96a)
-
 ---
 
 ## Key Results
+
+![image](https://github.com/user-attachments/assets/14730bd4-4955-472f-acdf-db4a172147fc)
 
 - **Best Model**: XGBoost achieved a recall of 0.84, outperforming other models.
 - **Feature Importance**:
   - Key drivers of churn include `international_plan`, `number_customer_service_calls`, and `voice_mail_plan`.
 - **Churn Strategy**: Ranked top 500 customers with the highest churn probability for proactive engagement.
+
+![image](https://github.com/user-attachments/assets/ee4b1900-645a-490b-b8ab-0a901aa8a96a)
 
 ---
 
