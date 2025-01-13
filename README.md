@@ -50,11 +50,11 @@ The following models were trained and evaluated:
    - Tuned `scale_pos_weight` to address class imbalance.
    - Achieved the highest recall and best overall performance.
 
+![image](https://github.com/user-attachments/assets/14730bd4-4955-472f-acdf-db4a172147fc)
+
 ---
 
 ## Key Results
-
-![image](https://github.com/user-attachments/assets/14730bd4-4955-472f-acdf-db4a172147fc)
 
 - **Best Model**: XGBoost achieved a recall of 0.84, outperforming other models.
 - **Feature Importance**:
