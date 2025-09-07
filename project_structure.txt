@@ -1,0 +1,13 @@
+telecom-churn/
+├── data/
+│   ├── raw/
+│   ├── processed/
+├── notebooks/
+│   ├── eda.ipynb
+│   ├── feature_engineering.ipynb
+│   └── model_training.ipynb
+├── src/
+│   ├── data_pipeline.py
+│   ├── model_training.py
+│   ├── evaluation.py
+└── README.md
