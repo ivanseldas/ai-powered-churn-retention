@@ -1,13 +1,17 @@
-telecom-churn/
+ai-powered-churn-retention/
 ├── data/
-│   ├── raw/
-│   ├── processed/
-├── notebooks/
-│   ├── eda.ipynb
-│   ├── feature_engineering.ipynb
-│   └── model_training.ipynb
+│   └── raw/
+|   └── synthetic/
+|   └── processed/
 ├── src/
-│   ├── data_pipeline.py
-│   ├── model_training.py
-│   ├── evaluation.py
-└── README.md
+│   ├── agents/
+│   │   ├── data_agent.py
+│   │   ├── model_agent.py
+│   │   ├── explain_agent.py
+│   │   └── report_agent.py
+│   └── main_workflow.py
+├── reports/
+│   ├── drivers.json
+│   ├── metrics.json
+│   └── churn_report.txt
+└── requirements.txt
